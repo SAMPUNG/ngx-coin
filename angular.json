@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ngx-coin": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-coin"
+    }
+  },
+  "defaultProject": "ngx-coin",
+  "cli": {
+    "analytics": "64767a22-a1ff-4c12-a0b0-1ed57d001c2a"
+  }
 }
